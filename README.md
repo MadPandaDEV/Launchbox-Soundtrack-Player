@@ -24,7 +24,7 @@ These are all the people, which contributed directly or indirectly to this proje
 ### Soundtrack Player
 | Contact| Contribution |
 | --- | --- |
-| [MadPandaDEV][Mad Panda] | Developer of Soundtrack Player |
+| [Mad Panda][MadPandaDEV]  | Developer of Soundtrack Player |
 
 ### Libraries / Utilities
 | Contact| Contribution |
