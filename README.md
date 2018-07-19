@@ -46,5 +46,5 @@ To keep it simple, here is the [Creative Commons][licensetldr1] simplification.
 [markheath]: https://markheath.net/
 [hydrogenaudio]: http://wiki.hydrogenaud.io/index.php/MP3packer
 [getstarted]: https://github.com/MadPandaDEV/Launchbox-Soundtrack-Player/wiki/Getting-Started-Guide
-[releases]: https://github.com/MadPandaDEV/Launchbox-Soundtrack-Player/tree/master/Releases
+[releases]: https://github.com/MadPandaDEV/Launchbox-Soundtrack-Player/releases
 [icons1]: https://github.com/wfpaisa/plane-icon-theme
