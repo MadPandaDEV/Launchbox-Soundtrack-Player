@@ -15,9 +15,11 @@ Grab your copy from our [latest releases][releases].
 Launchbox
 ![](https://github.com/MadPandaDEV/Launchbox-Soundtrack-Player/blob/master/Wiki/Images/SS0.jpg)
 Metal Gear Solid
-![](https://github.com/MadPandaDEV/Launchbox-Soundtrack-Player/blob/master/Wiki/Images/SS1.jpg)
+![](https://github.com/MadPandaDEV/Launchbox-Soundtrack-Player/blob/master/Wiki/Images/SS1.png)
+Terranigma
+![](https://github.com/MadPandaDEV/Launchbox-Soundtrack-Player/blob/master/Wiki/Images/SS2.png)
 Ninja Gaiden
-![](https://github.com/MadPandaDEV/Launchbox-Soundtrack-Player/blob/master/Wiki/Images/SS2.jpg)
+![](https://github.com/MadPandaDEV/Launchbox-Soundtrack-Player/blob/master/Wiki/Images/SS3.png)
 
 ## Credits:
 These are all the people, which contributed directly or indirectly to this project (in no particular order)
